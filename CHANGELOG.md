@@ -1,4 +1,4 @@
-## 1.0.0+7
+<!-- ## 1.0.0+7
 * improve the full moon shape
 ## 1.0.0+6
 * Update about information
@@ -7,5 +7,5 @@
 ## 1.0.0+2
 * Enable platform web
 ## 1.0.0+1
-* Update README.md
-## 1.0.0  Initial release.
+* Update README.md -->
+## 0.0.1  Initial release.

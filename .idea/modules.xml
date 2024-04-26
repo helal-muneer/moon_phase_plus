@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/moon_phase.iml" filepath="$PROJECT_DIR$/moon_phase.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/moon_phase_android.iml" filepath="$PROJECT_DIR$/android/moon_phase_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/android/moon_phase_example_android.iml" filepath="$PROJECT_DIR$/example/android/moon_phase_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moon_phase_plus.iml" filepath="$PROJECT_DIR$/moon_phase_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/moon_phase_plus_android.iml" filepath="$PROJECT_DIR$/android/moon_phase_plus_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/moon_phase_plus_example_android.iml" filepath="$PROJECT_DIR$/example/android/moon_phase_plus_example_android.iml" />
     </modules>
   </component>
 </project>

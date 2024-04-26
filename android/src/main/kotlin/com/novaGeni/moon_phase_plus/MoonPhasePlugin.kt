@@ -1,4 +1,4 @@
-package com.enoo.moon_phase
+package com.novaGeni.moon_phase_plus
 
 import androidx.annotation.NonNull
 
@@ -17,7 +17,7 @@ class MoonPhasePlugin: FlutterPlugin, MethodCallHandler {
   private lateinit var channel : MethodChannel
 
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
-    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "moon_phase")
+    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "moon_phase_plus")
     channel.setMethodCallHandler(this)
   }
 

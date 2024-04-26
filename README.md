@@ -1,6 +1,8 @@
-# moon_phase
+# moon_phase_plus
 
 Flutter plugin that creates moon widgets according to the moon's phase.
+
+This plugin is the continuation of the discontinued [original plugin](https://pub.dev/packages/moon_phase). I merged some of my bug fixes and made some changes to my liking.
 
 ## Getting Started
 
@@ -12,7 +14,7 @@ Just add the `MoonWidget` and put in every single `DateTime` you want see. Then,
   ),
 ```
 
-This is the [example app](https://pub.dev/packages/moon_phase/example) that shows the shape of the moon every 12 hours for 30 days.
+This is the [example app](https://pub.dev/packages/moon_phase_plus/example) that shows the shape of the moon every 12 hours for 30 days.
 
 <img src="https://user-images.githubusercontent.com/68217334/136664443-31639f81-9e5d-4ca9-a26f-2abc2b408aad.png" alt="example app" width="250"/>
 
@@ -52,5 +54,5 @@ such as an icon or marker.
 ---
 ## About
 
-- Publisher - [enoosoft](https://github.com/enoosoft)   
-- Reference - ([Audrius Meskauskas's MoonView](https://github.com/andviane/moon.git))
+- Publisher - [Helal Muneer](https://github.com/helal-muneer)   
+- Reference - ([enoosoft's moon_phase](https://github.com/enoosoft/moon_phase.git))

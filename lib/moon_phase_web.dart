@@ -7,15 +7,16 @@ import 'dart:html' as html show window;
 
 import 'package:flutter/services.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
+
 export 'moon_painter.dart' show MoonPainter;
-export 'moon_widget.dart' show MoonWidget;
 export 'moon_phase.dart' show MoonPhase;
+export 'moon_widget.dart' show MoonWidget;
 
 /// A web implementation of the MoonPhase plugin.
 class MoonPhaseWeb {
   static void registerWith(Registrar registrar) {
     final MethodChannel channel = MethodChannel(
-      'moon_phase',
+      'moon_phase_plus',
       const StandardMethodCodec(),
       registrar,
     );
@@ -34,7 +35,8 @@ class MoonPhaseWeb {
       default:
         throw PlatformException(
           code: 'Unimplemented',
-          details: 'moon_phase for web doesn\'t implement \'${call.method}\'',
+          details:
+              'moon_phase_plus for web doesn\'t implement \'${call.method}\'',
         );
     }
   }

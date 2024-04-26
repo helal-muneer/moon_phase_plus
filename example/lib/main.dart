@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:moon_phase/moon_widget.dart';
+import 'package:moon_phase_plus/moon_widget.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,4 +1,4 @@
-package com.enoo.moon_phase_example
+package com.novaGeni.moon_phase_plus_example
 
 import io.flutter.embedding.android.FlutterActivity
 

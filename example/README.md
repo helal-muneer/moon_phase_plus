@@ -1,6 +1,6 @@
-# moon_phase_example
+# moon_phase_plus_example
 
-Demonstrates how to use the moon_phase plugin.
+Demonstrates how to use the moon_phase_plus plugin.
 
 ## Getting Started
 

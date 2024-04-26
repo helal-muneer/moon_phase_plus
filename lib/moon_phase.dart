@@ -1,9 +1,9 @@
-library moon_phase;
+library moon_phase_plus;
+
+import 'dart:math';
 
 export 'moon_painter.dart' show MoonPainter;
 export 'moon_widget.dart' show MoonWidget;
-
-import 'dart:math';
 
 class MoonPhase {
   final deg2rad = pi / 180;

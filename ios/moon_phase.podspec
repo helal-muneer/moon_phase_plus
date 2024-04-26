@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint moon_phase.podspec` to validate before publishing.
+# Run `pod lib lint moon_phase_plus.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'moon_phase'
+  s.name             = 'moon_phase_plus'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

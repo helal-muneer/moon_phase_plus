@@ -1,14 +1,14 @@
-name: moon_phase_example
-description: Demonstrates how to use the moon_phase plugin.
+name: moon_phase_plus_example
+description: Demonstrates how to use the moon phase plus plugin.
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.3.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  moon_phase:
+  moon_phase_plus:
     path: ../
 
   cupertino_icons: ^1.0.2

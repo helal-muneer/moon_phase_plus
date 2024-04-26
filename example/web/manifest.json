@@ -1,11 +1,11 @@
 {
-    "name": "moon_phase_example",
-    "short_name": "moon_phase_example",
+    "name": "moon_phase_plus_example",
+    "short_name": "moon_phase_plus_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstrates how to use the moon_phase plugin.",
+    "description": "Demonstrates how to use the moon_phase_plus plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,4 +1,4 @@
-group 'com.enoo.moon_phase'
+group 'com.novaGeni.moon_phase_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
