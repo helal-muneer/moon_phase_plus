@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   Flutter plugin that creates moon widgets according to the moon's phase.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'http://novageni.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Nova Geni' => 'dev-support@novageni.com' }
   s.source           = { :path => '.' }

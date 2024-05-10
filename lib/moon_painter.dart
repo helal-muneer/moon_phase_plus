@@ -1,5 +1,5 @@
 //
-// MoonPhase.java:
+// MoonPhasePlus.java:
 // Calculate the phase of the moon.
 //    Copyright 2014 by Audrius Meskauskas
 // You may use or distribute this code under the terms of the GPLv3

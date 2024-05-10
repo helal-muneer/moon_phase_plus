@@ -12,8 +12,8 @@ export 'moon_painter.dart' show MoonPainter;
 export 'moon_phase_plus.dart' show MoonPhasePlus;
 export 'moon_widget.dart' show MoonWidget;
 
-/// A web implementation of the MoonPhase plugin.
-class MoonPhaseWeb {
+/// A web implementation of the MoonPhasePlus plugin.
+class MoonPhasePlusWeb {
   static void registerWith(Registrar registrar) {
     final MethodChannel channel = MethodChannel(
       'moon_phase_plus',
@@ -21,7 +21,7 @@ class MoonPhaseWeb {
       registrar,
     );
 
-    final pluginInstance = MoonPhaseWeb();
+    final pluginInstance = MoonPhasePlusWeb();
     channel.setMethodCallHandler(pluginInstance.handleMethodCall);
   }
 

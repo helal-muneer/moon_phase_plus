@@ -24,9 +24,9 @@ flutter:
     platforms:
       android:
         package: com.novaGeni.moon_phase_plus
-        pluginClass: MoonPhasePlugin
+        pluginClass: MoonPhasePlusPlugin
       ios:
-        pluginClass: MoonPhasePlugin
+        pluginClass: MoonPhasePlusPlugin
       web:
-        pluginClass: MoonPhaseWeb
+        pluginClass: MoonPhasePlusWeb
         fileName: moon_phase_plus_web.dart
