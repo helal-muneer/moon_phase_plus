@@ -9,7 +9,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 
 export 'moon_painter.dart' show MoonPainter;
-export 'moon_phase.dart' show MoonPhase;
+export 'moon_phase_plus.dart' show MoonPhasePlus;
 export 'moon_widget.dart' show MoonWidget;
 
 /// A web implementation of the MoonPhase plugin.

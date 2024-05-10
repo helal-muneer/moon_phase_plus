@@ -5,7 +5,7 @@ import 'dart:math';
 export 'moon_painter.dart' show MoonPainter;
 export 'moon_widget.dart' show MoonWidget;
 
-class MoonPhase {
+class MoonPhasePlus {
   final deg2rad = pi / 180;
 
   // convert degrees to a valid angle:

@@ -15,7 +15,7 @@ class MoonPainter extends CustomPainter {
   MoonWidget moonWidget;
   final Paint paintDark = Paint();
   final Paint paintLight = Paint();
-  final MoonPhase moon = MoonPhase();
+  final MoonPhasePlus moon = MoonPhasePlus();
 
   MoonPainter({required this.moonWidget});
 
