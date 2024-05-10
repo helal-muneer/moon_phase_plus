@@ -8,8 +8,8 @@
 #import "moon_phase_plus-Swift.h"
 #endif
 
-@implementation MoonPhasePlugin
+@implementation MoonPhasePlusPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
-  [SwiftMoonPhasePlugin registerWithRegistrar:registrar];
+  [SwiftMoonPhasePlusPlugin registerWithRegistrar:registrar];
 }
 @end

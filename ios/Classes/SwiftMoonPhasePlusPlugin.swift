@@ -1,10 +1,10 @@
 import Flutter
 import UIKit
 
-public class SwiftMoonPhasePlugin: NSObject, FlutterPlugin {
+public class SwiftMoonPhasePlusPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
     let channel = FlutterMethodChannel(name: "moon_phase_plus", binaryMessenger: registrar.messenger())
-    let instance = SwiftMoonPhasePlugin()
+    let instance = SwiftMoonPhasePlusPlugin()
     registrar.addMethodCallDelegate(instance, channel: channel)
   }
 
