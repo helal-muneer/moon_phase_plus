@@ -1,4 +1,4 @@
 #import <Flutter/Flutter.h>
 
-@interface MoonPhasePlugin : NSObject<FlutterPlugin>
+@interface MoonPhasePlusPlugin : NSObject<FlutterPlugin>
 @end

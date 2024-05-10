@@ -1,4 +1,4 @@
-#import "MoonPhasePlugin.h"
+#import "MoonPhasePlusPlugin.h"
 #if __has_include(<moon_phase_plus/moon_phase_plus-Swift.h>)
 #import <moon_phase_plus/moon_phase_plus-Swift.h>
 #else
