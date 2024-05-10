@@ -9,7 +9,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'moon_phase.dart';
+import 'moon_phase_plus.dart';
 
 class MoonPainter extends CustomPainter {
   MoonWidget moonWidget;

@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'moon_phase_plus'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Moon widgets according to the moon\'s phase. '
   s.description      = <<-DESC
   Flutter plugin that creates moon widgets according to the moon's phase.
