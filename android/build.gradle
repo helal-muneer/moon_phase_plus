@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 30
+    namespace 'com.novaGeni.moon_phase_plus'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
