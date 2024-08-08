@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
     namespace 'com.novaGeni.moon_phase_plus'
 
     compileOptions {
@@ -43,6 +43,7 @@ android {
 
     defaultConfig {
         minSdkVersion 16
+        targetSdkVersion 34
     }
 }
 
