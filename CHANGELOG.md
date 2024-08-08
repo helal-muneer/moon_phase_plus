@@ -6,8 +6,8 @@
 * Update sample app
 ## 1.0.0+2
 * Enable platform web
-## 1.0.0+1
 * Update README.md -->
-## 0.0.3+2 [android] migrated to the namespace value in the build file.
-## 0.0.2+1 updated ios platform version.
-## 0.0.1  Initial release.
+## 1.0.1+5 upgraded packages versions
+## 1.0.1+4 [android] migrated to the namespace value in the build file.
+## 1.0.1+3 updated ios platform version.
+## 1.0.1+2 Initial release.
